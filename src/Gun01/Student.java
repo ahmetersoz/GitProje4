@@ -10,6 +10,7 @@ public class Student {
 
                 for (int k = 0; k <10 ; k++) {
                     System.out.println("Emoş Mükemmeldir****");
+                    System.out.println("Emossss");
 
                 }
             }
