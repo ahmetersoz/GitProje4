@@ -9,7 +9,7 @@ public class Student {
                 System.out.println("Aslan İcardi");
 
                 for (int k = 0; k <10 ; k++) {
-                    System.out.println("Emoş Mükemmeldir*****");
+                    System.out.println("Emoş Mükemmeldir****");
 
                 }
             }
